@@ -2,12 +2,14 @@
 
 # The Millionaire Game
 A custom game controller software like WWTBAM.
+I have edited the game for the Host Screen + Guest screen to be in 1920x1080 size format. In the future, I will make them fullscreen and will also make the TV Screen 1920x1080 :)
+Please feel free to use my version until Marco comes out with an update of his version with the same features :))
 
 ## Introduction
 This software can be used to run your own Who Wants To Be A Millionaire games. For example at home, on Discord with friends or on a Youtube video/livestream.
 There will be new features in the future to play around with. But there are a lot of elements that you can use:
 - Max. 4 lifelines.
-- Host and Contestant screen
+- Host and Contestant screen (1929x1080)
 - TV/Livestream screen
 - Fastest Finger First (+ online features).
 - Risk Mode
