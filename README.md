@@ -101,10 +101,10 @@ When the contestant doesn't like the current question, this lifeline will switch
 ![Screenshot_5](https://user-images.githubusercontent.com/43847273/134223910-30d1e2ab-83e9-456f-98f1-a01d477be1b2.png)
 
 ## Where to download it?
-You can download one of Marco's releases here 
+You can download one of Marco's releases 
 [here](https://github.com/Maerciez/TheMillionaireGame/releases)
 !
 
-Or my releases (updated) here
+Or my releases (updated)
 [here](https://github.com/mathieufitzgerald/TheMillionaireGame/releases)
  :)
